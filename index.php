@@ -13,21 +13,21 @@
           <!-- Item-->  
           <div class="w100">
             <div class="d-lg-flex justify-content-between align-items-center">
-              <img class="d-block order-lg-2 me-lg-n5 flex-shrink-0 " src="img/home/hero-slider/10.jpg" alt="Men Accessories">
+              <img class="d-block order-lg-2 me-lg-n5 flex-shrink-0 " src="img/home/10.jpg" alt="Men Accessories">
           
             </div>
           </div>
           <!-- Item-->
           <div class="w100">
             <div class="d-lg-flex justify-content-between align-items-center">
-              <img class="d-block order-lg-2 me-lg-n5 flex-shrink-0 " src="img/home/hero-slider/11.jpg" alt="Men Accessories">
+              <img class="d-block order-lg-2 me-lg-n5 flex-shrink-0 " src="img/home/11.jpg" alt="Men Accessories">
            
             </div>
           </div>
           <!-- Item-->
           <div class="w100">
             <div class="d-lg-flex justify-content-between align-items-center">
-              <img class="d-block order-lg-2 me-lg-n5 flex-shrink-0 " src="img/home/hero-slider/12.jpg" alt="Men Accessories">
+              <img class="d-block order-lg-2 me-lg-n5 flex-shrink-0 " src="img/home/12.jpg" alt="Men Accessories">
         
             </div>
           </div>
