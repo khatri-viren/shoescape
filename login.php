@@ -37,6 +37,7 @@ require_once('src/components/header.php');
                             <button class="btn btn-primary" type="submit"><i class="ci-sign-in me-2 ms-n21"></i>Sign In</button>
                         </div>
                     </form>
+                    <span> For Admin Login <a href="./admin-login.php">Click Here</a></span>
                 </div>
             </div>
         </div>

@@ -171,7 +171,7 @@ if ($url_addition == 'sort=lowhighprice') {
                                         <i class="star-rating-icon ci-star-filled active"></i>
                                         <i class="star-rating-icon ci-star"></i>
                                     </div> -->
-                                    <form action="src/logicFiles/" method="post" class="mb-2">
+                                    <form action="./src/logicFiles/wishlist-add.php" method="post" class="mb-2">
                                         <input type="hidden" name="general_shoe_id" value="<?= $value['gst_id'] ?>">
                                         <input type="hidden" name="url" value="<?= $url ?>">
                                         <button class="btn-wishlist" data-bs-toggle="tooltip" type="submit" title="Add to wishlist"><i class="ci-heart"></i>
